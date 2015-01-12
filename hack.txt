@@ -1,0 +1,1 @@
+hahaha,You are hacked. <?php echo $_GET['a']; ?>
